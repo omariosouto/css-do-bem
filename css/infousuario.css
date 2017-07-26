@@ -1,0 +1,20 @@
+.infosUsuario {
+	text-align: center;
+}
+
+	.infosUsuario__avatar {
+		margin-top: 20px;
+	}
+
+	.infosUsuario__nome {
+		color: #747c81;
+		margin: 0;
+		margin-top: 20px;
+	}
+
+	.infosUsuario__label {
+		margin-top: 15px;
+		transition: .3s;
+	}
+
+
