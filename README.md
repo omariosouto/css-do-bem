@@ -12,3 +12,6 @@ Um guia rápido para quem quiser ter a base do bem é:
 
 ### Modificador (Modifier)
 > É identificado por **--** Muda um comportamento padrão ou estado do elemento ex: .avatar__photo--circular
+
+
+Post: [blog.alura.com.br/criando-componentes-css-com-padrao-bem/](blog.alura.com.br/criando-componentes-css-com-padrao-bem/)
